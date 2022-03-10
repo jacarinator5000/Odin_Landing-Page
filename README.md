@@ -1,2 +1,3 @@
 # Odin_Landing-Page
-MY first landing page
+This is my first project 
+I'm very excited!!!
